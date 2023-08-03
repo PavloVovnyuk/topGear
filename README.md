@@ -1,2 +1,2 @@
 # topGear
-this is an app created by and Dmytro Martyniuk and Pavlo Vovnyuk :)
+this is an app created by Dmytro Martyniuk and Pavlo Vovnyuk :)
